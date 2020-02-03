@@ -1,1 +1,1 @@
- We git add file to staging area. This helps to separate unwanted files or changes to be committed in repository.
+This is neat because without internet connection. we can basically commit and use git, then later push changes to remote for cloud storage.
