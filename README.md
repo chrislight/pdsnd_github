@@ -1,1 +1,1 @@
-Working Directory: Local directory Staging Area: This is virtual directory which sits between repository and working directory. 
+ We git add file to staging area. This helps to separate unwanted files or changes to be committed in repository.
