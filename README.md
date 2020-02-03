@@ -1,1 +1,1 @@
-This is neat because without internet connection. we can basically commit and use git, then later push changes to remote for cloud storage.
+Command git init | git status |
