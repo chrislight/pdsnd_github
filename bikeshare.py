@@ -1,4 +1,4 @@
-def filter_summarys(city, month, day, init_total_rides, df):
+def filter_sum(city, month, day, init_total_rides, df):
     """
     Displays selected city, filters chosen, and simple stats on dataset.
     Args:
